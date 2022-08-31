@@ -1,1 +1,2 @@
-Not emoyu
+!#/bin/bash
+Not again \n
