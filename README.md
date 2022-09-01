@@ -1,1 +1,2 @@
-Not empty
+#!/bin/bash
+Not meptg \n
